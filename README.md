@@ -82,5 +82,7 @@ O script irá:
 👩‍💻 Autora
 
 Desenvolvido por Isadora França
+
 Curso: Banco de Dados
+
 GitHub: @isadorafranca
